@@ -2,3 +2,4 @@ data/
 ignore/
 model.h5
 *.mid
+*.npy
