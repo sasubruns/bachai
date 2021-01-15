@@ -7,7 +7,7 @@ Currently does not load data in chunks (to be implemented), so limiting the numb
 An audio example is included in the project. It should be noted that the program does not output audio, but MIDI.
 
 How to use:
-- change the source fodler for the midi files inside open_midi.py, on line 64.
+- change the source folder for the midi files inside open_midi.py, on line 64.
 - run open_midi.py
 - run train.py
 - run execute.py
