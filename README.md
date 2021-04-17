@@ -1,6 +1,6 @@
 Bach AI
 
-A recurrent neural network that learns to replicate MIDI files.
+A recurrent neural network using Tensorflow, NumPy and Mido that learns to replicate MIDI files.
 
 Data is not included. Any MIDI files that only contain one tonal instrument should work. (Multiple instruments are probably too much for the network.)
 
